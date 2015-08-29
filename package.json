@@ -1,0 +1,36 @@
+{
+  "name": "phpsessions",
+  "version": "0.1.0",
+  "description": "PHP Persistant Sessions",
+  "private": true,
+  "homepage": "",
+  "author": {
+    "name": "Chris Keavey",
+    "email": "chris@chriskeavey.com",
+    "url": "http://chriskeavey.com"
+  },
+  "main": "Gruntfile.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Keav/phpsessions.git"
+  },
+  "devDependencies": {
+    "grunt": "*",
+    "grunt-autoprefixer": "*",
+    "grunt-bump": "*",
+    "grunt-contrib-clean": "*",
+    "grunt-contrib-copy": "*",
+    "grunt-contrib-cssmin": "*",
+    "grunt-contrib-htmlmin": "*",
+    "grunt-contrib-imagemin": "*",
+    "grunt-contrib-sass": "*",
+    "grunt-contrib-uglify": "*",
+    "grunt-contrib-watch": "*",
+    "grunt-hashres": "*",
+    "grunt-newer": "*",
+    "grunt-responsive-images": "*",
+    "grunt-shell": "*",
+    "grunt-uncss": "*",
+    "matchdep": "*"
+  }
+}

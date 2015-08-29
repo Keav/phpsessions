@@ -1,0 +1,19 @@
+# ======================
+# Explicitly exclude
+# ======================
+
+*.jpg
+*.png
+*.gif
+*.bmp
+*.tiff
+
+smtpmail.php
+
+# ======================
+# Explicitly include
+# ======================
+
+!config.php
+!.htaccess
+!sql_queries.txt
