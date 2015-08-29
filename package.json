@@ -1,7 +1,7 @@
 {
   "name": "phpsessions",
   "version": "0.1.0",
-  "description": "PHP Persistant Sessions",
+  "description": "PHP Persistent Sessions",
   "private": true,
   "homepage": "",
   "author": {
