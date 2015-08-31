@@ -16,4 +16,4 @@ smtpmail.php
 
 !config.php
 !.htaccess
-!sql_queries.txt
+!sql_queries.sql
